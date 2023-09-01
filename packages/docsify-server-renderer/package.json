@@ -17,7 +17,6 @@
   "dependencies": {
     "debug": "^2.6.8",
     "docsify": "^4.8.0",
-    "docsify-server-renderer": "^4.13.1",
     "node-fetch": "^1.7.0",
     "resolve-pathname": "^2.1.0"
   }
