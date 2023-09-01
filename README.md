@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://BUAA-Application.github.io/SJTU-Application/#/">
+  <a href="https://BUAA-Application.github.io/buaa-Application/#/">
     <img alt="docsify" src="./docs/src/_media/buaa-logo.png" height="150">
   </a>
 </p>
