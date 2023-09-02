@@ -1,9 +1,13 @@
 ## 生物医学工程
 
 
-#### PhD Programs:
+#### 保研：
 
-  - [16级-邓雨晴 Boston University(南科大样本)](grad-application/biomedical-engineering/[US]-16-dengyuqing.md)
+To be continued.
+
+#### 考研：
+
+To be continued.
 
 
 #### Master Programs:
@@ -12,17 +16,10 @@
   - [19级-刘星彤 Cambridge University](grad-application/biomedical-engineering/[UK]-19-liuxingtong.md)
 
 
-#### 直博：
+#### PhD Programs:
 
-To be continued.
+  - [16级-邓雨晴 Boston University(南科大样本)](grad-application/biomedical-engineering/[US]-16-dengyuqing.md)
 
-#### 保研：
-
-To be continued.
-
-#### 考研：
-
-To be continued.
 
 #### 就业：
 
